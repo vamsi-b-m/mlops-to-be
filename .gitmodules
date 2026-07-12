@@ -1,3 +1,6 @@
 [submodule "dvc-basics"]
 	path = dvc-basics
 	url = https://github.com/vamsi-b-m/dvc-basics.git
+[submodule "02.mlflow-demo"]
+	path = 02.mlflow-demo
+	url = https://github.com/vamsi-b-m/02.mlflow-demo.git
