@@ -4,3 +4,6 @@
 [submodule "02.mlflow-demo"]
 	path = 02.mlflow-demo
 	url = https://github.com/vamsi-b-m/02.mlflow-demo.git
+[submodule "03-model-deployment-and-serving"]
+    path = 03-model-deployment-and-serving
+    url = https://github.com/vamsi-b-m/03-model-deployment-and-serving.git
